@@ -47,12 +47,5 @@ and can log unknown questions or capture user contact details via tools.
 
 ---
 
-## 📂 Project Structure
-your_name_site_agent/
-│── personally_you.py
-│── me/
-│   ├── summary.txt
-│   └── linkedin.pdf
-│── requirements.txt
-│── README.md
+
 
