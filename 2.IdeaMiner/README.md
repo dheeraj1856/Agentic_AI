@@ -43,13 +43,5 @@ and sends the report via email.
 
 ---
 
-## 📂 Project Structure
-deep_research/
-│── deep_research.py        # Gradio UI
-│── research_manager.py     # Orchestrator
-│── planner_agent.py        # Plans searches
-│── search_agent.py         # Runs searches
-│── writer_agent.py         # Writes report
-│── email_agent.py          # Sends report via SendGrid
-│── README.md
+
 
