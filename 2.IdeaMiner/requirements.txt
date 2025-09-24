@@ -1,1 +1,8 @@
+openai
+python-dotenv
+gradio
+pydantic
+sendgrid
+requests
+aiohttp
 
